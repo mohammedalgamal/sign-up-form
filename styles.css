@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'Logo';
+    src: url('./Fonts/VeganStylePersonalUse-5Y58.woff') format('woff'),
+         url('./Fonts/VeganStylePersonalUse-5Y58.woff2') format('woff2');
+}
