@@ -8,6 +8,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 
 body {
@@ -33,7 +34,6 @@ body {
     width: fit-content;
     font-size: 1vw;
     color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .credit a {
@@ -64,3 +64,18 @@ body {
     margin-top: 0.7em;
 }
 
+.content {
+    width: 60vw;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    padding-left: 3em;
+    padding-right: 14em;
+}
+
+.contenttext {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
