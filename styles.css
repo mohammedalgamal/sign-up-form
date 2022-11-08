@@ -94,7 +94,7 @@ body {
 
 button {
     margin-top: 3rem;
-    width: 13vw;
+    width: 11vw;
     height: 5vh;
     border: 0px;
     background-color: rgb(236, 134, 61);
@@ -109,4 +109,20 @@ button:hover {
     background-color: antiquewhite;
     border: 3px solid rgb(236, 134, 61);
     color:black;   
+}
+
+.login {
+    color: black;
+    margin-top: 3rem;
+    font-size: 1rem;
+}
+
+.login a {
+    color: rgb(236, 134, 61);
+    font-weight: 900;
+    text-decoration: none;
+}
+
+.login a:hover {
+    color: brown;
 }
